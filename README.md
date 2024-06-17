@@ -1,10 +1,10 @@
 
-## Run Command
+## Run 
 
 
 
 ```bash
-  >python app.py
+  python app.py
 ```
 
 
